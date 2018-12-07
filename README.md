@@ -1,4 +1,10 @@
 # FAWN: A Fast Array of Wimpy Nodes
+### Team Members:
+1. Aditya Doshatti
+2. Anand Kumar
+3. Devashish Nyati
+4. Sai Harshith Reddy Gaddam
+5. Zainab Khan
 
 ##### Summary:
 
